@@ -1,0 +1,10 @@
+Recruitment_Site	N	Median_Age	Males	Females	Metabolomics	RNA_Seq	GWAS	MGWAS	QTL
+Tahiti	799	52	410	389	461	212	777	449	203
+Moorea	30	56	16	14	26	13	29	26	13
+Raiatea	99	50	64	35	90	17	98	89	17
+Gambier Islands	42	51	31	11	36	10	36	31	9
+Nuku Hiva	29	52	17	12	28	0	29	28	0
+Ua Pou	2	59	2	0	2	0	2	2	0
+Rangiroa	20	51	16	4	15	6	20	15	5
+Rurutu	22	57	17	5	22	2	22	22	2
+Total	1043	52	573	470	680	260	1013	662	249

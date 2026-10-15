@@ -1,0 +1,31 @@
+phenotype_code	phenotype_name	type	lambda_gc	hits	loci	sample_size	cases	controls
+ARTHRALGIA	Arthritis pain	binary	1.0045	0	0	983	418	565
+BC-CHOL	Cholesterol - Total	quantitative	1.0353	0	0	919		
+BC-SCR	Serum - Creatinine	quantitative	0.9902	0	0	921		
+BC-SUR	Serum - Urate	quantitative	1.0094	0	0	916		
+BC-UUR	Urine - Urate	quantitative	1.0107	0	0	866		
+BMI	BMI	quantitative	1.0208	0	0	1002		
+BP-D	Blood Pressure - Diastolic	quantitative	1.0046	0	0	972		
+BP-S	Blood Pressure - Systolic	quantitative	0.992	0	0	976		
+EGFR-CKDEPI	eGFR CKD-EPI	quantitative	0.9838	0	0	921		
+GOUT	Gout	binary	0.9953	0	0	1004	386	618
+HM-ALC	Lymphocyte Count	quantitative	1.0068	0	0	919		
+HM-BOC	Basophil Count	quantitative	0.9928	0	0	917		
+HM-ESC	Eosinophil Count	quantitative	0.9898	0	0	918		
+HM-HCT	Hematocrit	quantitative	1.0127	0	0	919		
+HM-HGB	Hemoglobin	quantitative	1.0213	0	0	919		
+HM-PLT	Platelet Count	quantitative	1.005	0	0	917		
+HM-WBC	White Blood Cell Count	quantitative	1.0236	0	0	919		
+HTN	Hypertension	binary	0.9898	0	0	994	137	857
+WEIGHT	Weight	quantitative	1.0187	0	0	1002		
+BC-CRP-HILO	C-reactive protein - Dichotomized	binary	0.977	1	1	921	158	763
+BC-HBA1C	HbA1C	quantitative	1.0142	1	1	817		
+BC-HDL	HDL	quantitative	1.0319	1	1	920		
+HM-ANC	Neutrophil Count	quantitative	1.0103	1	1	919		
+BC-TRIG	Triglycerides	quantitative	1.0256	2	1	920		
+HM-MCC	Monocyte Count	quantitative	1.0153	2	1	919		
+BC-LDL	LDL	quantitative	1.0272	4	1	828		
+BC-TGHDL	Triglycerides - HDL Ratio	quantitative	1.0329	5	2	920		
+DIAB-T2	Diabetes - Type 2	binary	0.9862	5	1	995	173	822
+HM-RBC	Red Blood Cell Count	quantitative	1.0058	230	2	919		
+HM-MCV	Mean Corpuscular Volume	quantitative	1.0013	696	2	919		

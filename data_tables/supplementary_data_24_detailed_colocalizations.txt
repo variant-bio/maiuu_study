@@ -1,0 +1,27 @@
+locus_gene	phenotype	qtl_type	gene_metabolite	dataset	coloc_pp4
+alpha-globin	MCV	metabolite	1-palmitoyl-2-stearoyl-GPC (16:0/18:0)	FPLN	0.997
+alpha-globin	MCV	metabolite	N-acetylglucosamine/N-acetylgalactosamine	FPLN	0.994
+alpha-globin	MCV	metabolite	adenosine 5'-monophosphate (AMP)	FPLN	0.996
+alpha-globin	MCV	metabolite	N6,N6,N6-trimethyllysine	FPLN	0.989
+alpha-globin	MCV	metabolite	inosine 5'-monophosphate (IMP)	FPLN	0.992
+alpha-globin	MCV	metabolite	1-palmitoyl-GPS (16:0)*	FPLN	0.978
+alpha-globin	MCV	metabolite	beta-citrylglutamate	FPLN	0.9
+alpha-globin	RBC	metabolite	1-palmitoyl-2-stearoyl-GPC (16:0/18:0)	FPLN	0.996
+alpha-globin	RBC	metabolite	N-acetylglucosamine/N-acetylgalactosamine	FPLN	0.997
+alpha-globin	RBC	metabolite	adenosine 5'-monophosphate (AMP)	FPLN	0.989
+alpha-globin	RBC	metabolite	N6,N6,N6-trimethyllysine	FPLN	0.992
+alpha-globin	RBC	metabolite	inosine 5'-monophosphate (IMP)	FPLN	0.976
+alpha-globin	RBC	metabolite	1-palmitoyl-GPS (16:0)*	FPLN	0.966
+alpha-globin	RBC	metabolite	beta-citrylglutamate	FPLN	0.782
+wdr1_slc2a9	Arthritis Pain	expression	WDR1	FPLN	0.925
+wdr1_slc2a9	Arthritis Pain	expression	WDR1	SABR	0.913
+wdr1_slc2a9	Arthritis Pain	expression	WDR1	GTEx	0.126
+wdr1_slc2a9	Arthritis Pain	expression	SLC2A9	GTEx	0.026
+wdr1_slc2a9	Arthritis Pain	expression	SLC2A9	SABR	0.016
+wdr1_slc2a9	Arthritis Pain	expression	SLC2A9	FPLN	0.015
+wdr1_slc2a9	Gout	expression	WDR1	FPLN	0.585
+wdr1_slc2a9	Gout	expression	WDR1	SABR	0.8
+wdr1_slc2a9	Gout	expression	WDR1	GTEx	0.067
+wdr1_slc2a9	Gout	expression	SLC2A9	GTEx	0.004
+wdr1_slc2a9	Gout	expression	SLC2A9	SABR	0.002
+wdr1_slc2a9	Gout	expression	SLC2A9	FPLN	0.002

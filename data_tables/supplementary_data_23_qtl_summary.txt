@@ -1,0 +1,5 @@
+qtl_type	gene_type	tested	significant
+expression	protein coding	13193	7531
+expression	lncRNA	3756	1531
+splicing	protein coding	10121	1966
+splicing	lncRNA	855	199
