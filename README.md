@@ -4,7 +4,7 @@ The Ma'i 'u'u French Polynesian resource combines whole genome sequencing (WGS) 
 
 This repository contains cohort information and the summary results reported in the following manuscript, along with details on how to request access to the full summary statistics.
 
-**Genetic and multi-omic insights into inflammation and metabolism in a French Polynesian cohort. Pascart _et al._ _Nature Communications_ (2026).**
+**[Genetic and multi-omic insights into inflammation and metabolism in a French Polynesian cohort](https://www.nature.com/articles/s41467-026-78816-y). Pascart _et al._ _Nature Communications_ (2026).**
 
 ## Repository contents
 
@@ -100,7 +100,7 @@ To request access, apply through the Zenodo record or contact the corresponding 
 
 If you use these data, please cite:
 
-1. Pascart, T. *et al.* Genetic and multi-omic insights into inflammation and metabolism in a French Polynesian cohort. *Nature Communications* (2026).
+1. Pascart, T. *et al.* Genetic and multi-omic insights into inflammation and metabolism in a French Polynesian cohort. *Nature Communications* (2026). <https://doi.org/10.1038/s41467-026-78816-y>
 2. Pascart, T. *et al.* The gout epidemic in French Polynesia: a modelling study of data from the Ma'i u'u epidemiological survey. *Lancet Global Health* 12, e685–e696 (2024).
 
 If you use the genome-wide summary statistics, please also include the dataset identifier (10.5281/zenodo.22759036).
